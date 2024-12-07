@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 120.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "image": "https://www.pngitem.com/pimgs/m/194-1946426_headphones-wireless-headset-wireless-headphone-png-transparent-png.png"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699.99,
+    "description": "Latest model smartphone with advanced features.",
+    "image": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczczLXRlZC0xMDE1MS0wMV8xLnBuZw.png"
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch",
+    "price": 199.99,
+    "description": "Stylish smartwatch with fitness tracking capabilities.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4TeEPbQJB4JThlpnndZq6NyN5kOD38deeA&s"
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "description": "Portable Bluetooth speaker with superior sound quality.",
+    "image": "https://e7.pngegg.com/pngimages/730/183/png-clipart-loudspeaker-enclosure-wireless-speaker-bluetooth-speaker-electronics-speaker.png"
+  },
+  {
+    "id": 5,
+    "name": "Laptop",
+    "price": 999.99,
+    "description": "Lightweight and powerful laptop for everyday tasks.",
+    "image": "https://img.freepik.com/premium-photo/laptop-isolated-white-background_180633-457.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "price": 59.99,
+    "description": "Ergonomic gaming mouse with customizable buttons.",
+    "image": "https://e7.pngegg.com/pngimages/41/630/png-clipart-computer-keyboard-gamdias-zeus-gaming-optical-mouse-computer-mouse-ares-computer-mouse-electronics-computer-keyboard.png"
+  },
+  {
+    "id": 7,
+    "name": "4K Monitor",
+    "price": 299.99,
+    "description": "27-inch 4K monitor with vibrant color accuracy.",
+    "image": "https://w7.pngwing.com/pngs/445/525/png-transparent-nvidia-g-sync-displayport-computer-monitors-4k-resolution-asus-rog-swift-pg-9q-video-game-articles-display-advertising-computer-monitor-accessory-hdmi.png"
+  },
+  {
+    "id": 8,
+    "name": "External Hard Drive",
+    "price": 89.99,
+    "description": "1TB external hard drive for secure storage.",
+    "image": "https://i.pinimg.com/736x/3e/a8/47/3ea8473fc2d18766139fd596f1e5d87a.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tablet",
+    "price": 329.99,
+    "description": "Lightweight tablet with a sharp display and long battery life.",
+    "image": "https://www.pngfind.com/pngs/m/52-522613_samsung-tablet-png-download-transparent-png.png"
+  },
+  {
+    "id": 10,
+    "name": "Keyboard",
+    "price": 49.99,
+    "description": "Mechanical keyboard with RGB backlighting.",
+    "image": "https://freepngimg.com/download/keyboard/162868-gaming-electronic-keyboard-free-transparent-image-hd.png"
+  }
+]

@@ -1,0 +1,13 @@
+Steps to run the project:
+
+1. Unzip the file to a directory of their choice.
+2. Open a terminal in the project directory and run:
+
+    'npm install' (without '')
+
+    This will install all the dependencies listed in the package.json file.
+3. After installation is complete, you can start the development server using:
+
+    'npm start' (without '')
+
+Now you should be able to run the project locally.
